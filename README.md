@@ -1,1 +1,1 @@
-# DimensionalityReduction-PCA_LDA
+# DimensionalityReduction-PCA_LDA_kernelPCA
